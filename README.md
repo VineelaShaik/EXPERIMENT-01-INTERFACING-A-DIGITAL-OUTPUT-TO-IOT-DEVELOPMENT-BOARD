@@ -111,9 +111,9 @@ int main(void)
   {
 
 	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
-	  HAL_Delay(4000);
+	  HAL_Delay(5000);
 	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
-	  HAL_Delay(2000);
+	  HAL_Delay(5000);
 
  }
 
@@ -122,11 +122,12 @@ int main(void)
 ```
 
 ## OUTPUT
-<img width="640" height="640" alt="exp1-1" src="https://github.com/user-attachments/assets/658737a8-0efb-4c8c-8c33-6549ac1574bb" />
+
+<img width="1280" height="940" alt="image" src="https://github.com/user-attachments/assets/1f5313aa-0fef-4049-9630-3b4795d6c6cf" />
 
 <br>
 
-<img width="640" height="640" alt="exp1-2" src="https://github.com/user-attachments/assets/510a2144-74fd-4f58-a508-6efd1516aae3" />
+<img width="1280" height="875" alt="image" src="https://github.com/user-attachments/assets/5103786f-c656-462e-91b6-bf18bbadaa6f" />
 
 
 
